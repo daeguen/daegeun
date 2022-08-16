@@ -201,9 +201,7 @@ print( "korea" not in nation )
 
 
 
-
-
-
+ 
 
 
  
